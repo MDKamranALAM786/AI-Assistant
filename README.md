@@ -13,7 +13,7 @@ A lightweight Flask web app that lets you ask questions and summarize emails usi
 
 - Python
 - Flask
-- Groq SDK
+- Groq
 - python-dotenv
 - HTML, CSS, and JavaScript
 
