@@ -69,7 +69,7 @@ GROQ_API_KEY=your_api_key_here
 5. Run the app:
 
 ```bash
-python app.py
+python main.py
 ```
 
 Then open your browser at:
